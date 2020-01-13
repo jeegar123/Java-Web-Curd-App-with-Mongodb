@@ -1,0 +1,37 @@
+#login_button{
+
+    margin-top: 20px;
+    margin-left: 0px;
+    width: 100px;
+}
+#register_button{
+    width: 100px;
+    bottom: 0;
+    position: absolute;
+    margin-bottom: 10px;
+}
+
+
+#div_books{
+
+    margin-top: 40px;
+}
+
+
+.book_input{
+
+    border-radius: 20px;
+    font-size: large;
+    text-align: center;
+    border-color: rgba(13, 93, 124, 0.555);
+    padding: 10px;
+}
+
+.book_button{
+
+    border-radius: 20px;
+    font-size: large;
+    text-align: center;
+    border-color: rgba(13, 93, 124, 0.555);
+    padding: 10px;
+}
