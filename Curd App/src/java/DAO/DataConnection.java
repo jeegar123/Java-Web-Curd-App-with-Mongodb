@@ -33,7 +33,7 @@ public class DataConnection {
     public MongoClient getClient() throws Exception {
         MongoClient client = null;
         //enter mongodb application strinjg urlfrom cluster
-        String url=null;
+        String url="";
         try {
             // enter your connect string from clutser
             MongoClientURI clientURI = new MongoClientURI(url);
